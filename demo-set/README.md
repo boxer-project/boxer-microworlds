@@ -55,6 +55,13 @@ supplemental notes and comments.
 
 <img alt="Hanoi" src="./images/hanoi.png" width="400px" />
 
+## Mankala
+
+A turn-based strategy game played with small stones on a board with 14 pits. The
+objective is to collect the most stones.
+
+<img alt="Mankala" src="./images/mankala.png" width="600px" />
+
 ## Tinker
 
 A magical tinker toy style simulation that allows building animations and stucture
